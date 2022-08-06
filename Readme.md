@@ -8,7 +8,7 @@ I'm a Junior Java Back-end developer
 
 ## Solutions
 
-|N    | Problem      | Java Solution |
+|N    | Difficulty(link to ploblem🔗)      | Java Solution |
 | :---|     :---:    |          ---: |
-| 1 |Content Cell  | Content Cell  |
-| 2 |Content Cell  | Content Cell  |
+| 1 |[Easy](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=false) | [Simple Array Sum](https://github.com/telman03/Hackerrank-Problems/blob/java/Problem_Solving/simpleArraySum.java)  |
+| 2 | [Easy](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=false) | [A very big sum](https://github.com/telman03/Hackerrank-Problems/blob/java/Problem_Solving/aVeryBigSum.java)  |
