@@ -1,7 +1,7 @@
 package Problem_Solving;
 
 import java.util.List;
-import java.util.Scanner;
+
 
 /**
  * https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=false
