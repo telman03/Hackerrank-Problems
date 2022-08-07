@@ -6,7 +6,7 @@ I'm a Junior Java Back-end developer
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telman-gadimov-0462ab20b/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/telmangadimov1?hr_r=1/)
-## WarmUp Solutions
+## [WarmUp Solutions](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=warmup&badge_type=problem-solving)
 
 | N     | Problem (link to problem🔗)                                                                       | Difficulty     | Score |                                                                                                               Java Solution |
 |:------|---------------------------------------------------------------------------------------------------|:--------------:|-------|----------------------------------------------------------------------------------------------------------------------------:|
