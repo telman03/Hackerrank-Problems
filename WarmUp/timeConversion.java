@@ -1,4 +1,4 @@
-package Problem_Solving;
+package WarmUp;
 
 public class timeConversion {
     public static String timeConversion(String s) {

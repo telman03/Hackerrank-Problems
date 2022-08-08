@@ -1,4 +1,4 @@
-package Problem_Solving;
+package WarmUp;
 
 import java.util.List;
 

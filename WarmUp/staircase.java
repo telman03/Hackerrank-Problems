@@ -1,4 +1,4 @@
-package Problem_Solving;
+package WarmUp;
 
 public class staircase {
     public static void main(String[] args) {

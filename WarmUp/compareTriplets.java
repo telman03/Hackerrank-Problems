@@ -1,4 +1,4 @@
-package Problem_Solving;
+package WarmUp;
 
 /**
  * https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=false
