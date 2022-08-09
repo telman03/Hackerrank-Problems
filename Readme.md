@@ -21,6 +21,7 @@ I'm a Junior Java Back-end developer
 
 ## [Implementation Solutions](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving)
 
-| N   | Problem (link to problem🔗)                                                         | Difficulty | Score | Java Solution                                                                                                     |
-|:----|-------------------------------------------------------------------------------------|------------|-------|-------------------------------------------------------------------------------------------------------------------|
-| 1   | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false) | Easy       | 10    | [Grading Students](https://github.com/telman03/Hackerrank-Problems/blob/java/Implementation/gradingStudents.java) |
+| N   | Problem (link to problem🔗)                                                          | Difficulty | Score | Java Solution                                                                                                     |
+|:----|--------------------------------------------------------------------------------------|------------|-------|-------------------------------------------------------------------------------------------------------------------|
+| 1   | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false)  | Easy       | 10    | [Grading Students](https://github.com/telman03/Hackerrank-Problems/blob/java/Implementation/gradingStudents.java) |
+| 2   | [Problem](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=false)  | Easy       | 10    | [Apple and Orange](https://github.com/telman03/Hackerrank-Problems/blob/java/Implementation/AppleAndOranges.java) |
