@@ -18,3 +18,9 @@ I'm a Junior Java Back-end developer
 | 6     | [Problem](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=false)          |      Easy      | 10    |                                     [Min-Max Sum](https://github.com/telman03/Hackerrank-Problems/blob/java/WarmUp/min_max_Sum.java) |
 | 7     | [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=false) |      Easy      | 10    |                   [Birthday Cake Candles](https://github.com/telman03/Hackerrank-Problems/blob/java/WarmUp/birthdayCakeCandles.java) |
 | 8     | [Problem](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false)       |      Easy      | 15    |                              [Time Conversion](https://github.com/telman03/Hackerrank-Problems/blob/java/WarmUp/timeConversion.java) |
+
+## [Implementation Solutions](https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=implementation&badge_type=problem-solving)
+
+| N   | Problem (link to problem🔗)                                                         | Difficulty | Score | Java Solution                                                                                                     |
+|:----|-------------------------------------------------------------------------------------|------------|-------|-------------------------------------------------------------------------------------------------------------------|
+| 1   | [Problem](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=false) | Easy       | 10    | [Grading Students](https://github.com/telman03/Hackerrank-Problems/blob/java/Implementation/gradingStudents.java) |
