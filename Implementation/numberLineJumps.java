@@ -5,6 +5,7 @@ public class numberLineJumps {
         if (x1 == x2) {
             return "YES";
         }
+        
         int diff = v1 > v2 ? v1 - v2 : v2 - v1;
         if (diff == 0) {
             return "NO";
