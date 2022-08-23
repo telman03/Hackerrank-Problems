@@ -3,7 +3,8 @@ package Implementation;
 
 import java.util.List;
 
-/** https://www.hackerrank.com/challenges/apple-and-orange/problem */
+/** https://www.hackerrank.com/challenges/apple-and-orange/problem 
+*/
 public class AppleAndOranges {
 
     public static int[] convertToArray(List<Integer> xs) {
