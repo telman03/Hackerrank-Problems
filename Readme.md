@@ -8,6 +8,7 @@ I'm a Junior Java Back-end developer
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/telmangadimov1?hr_r=1/)
 ## [WarmUp Solutions](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&filters%5Bstatus%5D%5B%5D=solved&filters%5Bsubdomains%5D%5B%5D=warmup&badge_type=problem-solving)
 
+
 | N     | Problem (link to problem🔗)                                                                       | Difficulty     | Score |                                                                                                                                 Java Solution |
 |:------|---------------------------------------------------------------------------------------------------|:--------------:|-------|----------------------------------------------------------------------------------------------------------------------------------------------:|
 | 1     | [Problem](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=false)      |      Easy      | 5     |                                      [Simple Array Sum](https://github.com/telman03/Hackerrank-Problems/blob/java/WarmUp/simpleArraySum.java) |
